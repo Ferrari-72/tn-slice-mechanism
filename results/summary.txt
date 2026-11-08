@@ -1,0 +1,17 @@
+== ord2 HOST_ACCEPTED elapsed=60s
+  native1      S   0.02% F   3.73% J   3.76% FS   3.76% SF   3.76% | slices I/S/J 2/2/2 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('1207959552', 7)
+  native2      S   0.02% F  14.13% J  14.16% FS  14.16% SF  14.16% | slices I/S/J 2/2/1 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('1207959552', 7)
+  signal1      S   0.02% F   3.73% J   3.76% FS   3.76% SF   3.76% | slices I/S/J 2/2/2 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('897581056', 7)
+  seeded_other S   0.02% F   5.32% J   5.34% FS   5.34% SF   5.34% | slices I/S/J 2/2/2 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('327155712', 0)
+== ord4 HOST_ACCEPTED elapsed=37s
+  native1      S   0.00% F   0.00% J   0.00% FS   0.00% SF   0.00% | slices I/S/J 3/3/3 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('275699990528', 27)
+  native2      S   0.00% F   0.00% J   0.00% FS   0.00% SF   0.00% | slices I/S/J 3/3/3 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('275687407616', 27)
+== ord6 HOST_ACCEPTED elapsed=45s
+  native1      S   0.02% F   0.00% J   0.03% FS   0.03% SF   0.03% | slices I/S/J 1/1/1 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('276035534848', 1)
+  native2      S   0.02% F   0.00% J   0.02% FS   0.02% SF   0.02% | slices I/S/J 1/1/1 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('275321192448', 1)
+== ord8 HOST_ACCEPTED elapsed=114s
+  native1      S   0.00% F   0.00% J   0.00% FS   0.00% SF   0.00% | slices I/S/J 28/28/28 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('4404019200', 22)
+  native2      S   0.00% F   0.00% J   0.00% FS   0.00% SF   0.00% | slices I/S/J 28/28/28 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('4401922048', 22)
+== ord10 HOST_ACCEPTED elapsed=129s
+  native1      S   0.00% F   0.00% J   0.00% FS   0.00% SF   0.00% | slices I/S/J 19/19/19 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('557137788928', 22)
+  native2      S   0.01% F   0.00% J   0.02% FS   0.02% SF   0.02% | slices I/S/J 19/19/19 | cert UNREJECTED_BY_FIXED_NODES | audit True | feat ('6644826112', 0)
